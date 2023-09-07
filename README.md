@@ -4,3 +4,10 @@
 <img src="https://img.shields.io/badge/Android-EA4335?style=flat-square&logo=Android&logoColor=white"/>
 
 #EA4335
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daehyun-Syn)](https://github.com/Daehyun-Syn/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daehyun-Syn)](https://github.com/Daehyun-Syn/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Syn)](https://github.com/Daehyun-Syn/)
