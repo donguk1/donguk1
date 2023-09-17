@@ -6,7 +6,7 @@
 - SQL
 - Linux
 </div>
-<hr>
+---
 <div>
 23년 2학기 과목
 - AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))
