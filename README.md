@@ -3,8 +3,8 @@
     <li> C언어
     <li> JAVA
     <li> HTML(HTML, CSS, JS)
-    <li> SQL
-  <li> Linux
+    <li> SQL(SQLPlus)
+    <li> Linux(ubuntu)
 </ul>
 <hr>
 <h3>23년 2학기 과목</h3>
