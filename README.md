@@ -4,6 +4,7 @@
 - HTML(HTML + CSS + JS)
 - SQL
 - Linux
+  <hr>
 23년 2학기 과목
 - AI연계실습(JAVA Spring Boot(JAVA + JSP + CSS + JS))
 - Python
