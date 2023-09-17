@@ -1,20 +1,18 @@
-<div>
+
 23년 1학기 과목
-- C언어
-- JAVA
-- HTML(HTML, CSS, JS)
-- SQL
-- Linux
-</div>
----
-<div>
+> C언어
+> JAVA
+> HTML(HTML, CSS, JS)
+> SQL
+> Linux
+<hr>
 23년 2학기 과목
-- AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))
-- Python
-- NoSQL(MongoDB)
-- Data Modeling 
-- Xshlell(Hadoop(Master, Slave1, Slave2))
-</div>
+> AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))
+> Python
+> NoSQL(MongoDB)
+> Data Modeling 
+> Xshlell(Hadoop(Master, Slave1, Slave2))
+
  
  <a href="mailto:donguk0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
