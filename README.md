@@ -6,6 +6,13 @@
 - Linux
 <hr>
 23년 2학기 과목
+- AI 연계 실습(JAVA Spring Boot(JSP + CSS + JS)
+- Python
+- NoSQL(MongoDB)
+- Data Modeling
+- Xshlell(Hadoop(Master, Slave1, Slave2))
+
+<hr>
 - AI연계실습(JAVA Spring Boot(JAVA + JSP + CSS + JS))
 - Python
 - NoSQL(MongDB)
