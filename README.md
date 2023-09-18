@@ -1,7 +1,7 @@
 <h3>23년 1학기 과목</h3>
 <ul> 
-    <li> C언어
-    <li> JAVA
+    <li> C언어(CMD, GVIM)
+    <li> JAVA(IntelliJ IDEA)
     <li> HTML(HTML, CSS, JS)
     <li> SQL(SQLPlus)
     <li> Linux(ubuntu)
@@ -10,9 +10,9 @@
 <h3>23년 2학기 과목</h3>
 <ul>
   <li> AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))
-  <li> Python
+  <li> Python(Pycharm, Python)
   <li> NoSQL(MongoDB)
-  <li> Data Modeling 
+  <li> Data Modeling(DA# Modeler 5)
   <li> Xshell7(Hadoop(Master, Slave1, Slave2))
 </ul>
 <hr>
