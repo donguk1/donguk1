@@ -1,11 +1,14 @@
-<h3>23년 1학기 과목</h3>
-<ul> 
-    <li> C언어(CMD, GVIM)
-    <li> JAVA(IntelliJ IDEA)
-    <li> HTML(HTML, CSS, JS)
-    <li> SQL(SQLPlus)
-    <li> Linux(ubuntu)
-</ul>
+```html
+<div data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <h3>23년 1학기 과목</h3>
+</div>
+<div class="dropdown-menu dropdown-menu-end">
+    <a> C언어(CMD, GVIM)</a>
+    <a> JAVA(IntelliJ IDEA)</a>
+    <a> HTML(HTML, CSS, JS)</a>
+    <a> SQL(SQLPlus)</a>
+    <a> Linux(ubuntu)</a>
+</div>
 <hr>
 <h3>23년 2학기 과목</h3>
 <ul>
@@ -16,7 +19,7 @@
   <li> Xshell7(Hadoop(Master, Slave1, Slave2))
 </ul>
 <hr>
-
+```
 <a href="mailto:donguk0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=donguk1)](https://github.com/donguk1/)
