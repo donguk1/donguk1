@@ -8,17 +8,16 @@
         <li> Linux(ubuntu)
 </ul>
 </details>
-<hr>
 <details>
-<summary><h3>23년 2학기 과목</h3></summary>
-<ul>
-  <li> AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))
-  <li> Python(Pycharm, Python)
-  <li> NoSQL(MongoDB)
-  <li> Data Modeling(DA# Modeler 5)
-  <li> Xshell7(Hadoop(Master, Slave1, Slave2))
-</ul>
-</details>
+    <summary><h3>23년 2학기 과목</h3></summary>
+    <ul>
+        <li> AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))
+        <li> Python(Pycharm, Python)
+        <li> NoSQL(MongoDB)
+        <li> Data Modeling(DA# Modeler 5)
+        <li> Xshell7(Hadoop(Master, Slave1, Slave2))
+    </ul>
+    </details>
 <hr>
 
 <a href="mailto:donguk0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
