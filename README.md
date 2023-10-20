@@ -14,7 +14,7 @@
         <li>운전면허 2종보통(2022)</li>
     </ul>
 </details>
-
+<br>
 <details>
     <summary><h3>23년 1학기 과목</h3></summary>
     <ul>
