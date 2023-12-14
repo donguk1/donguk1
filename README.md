@@ -35,7 +35,7 @@ K-Paas
     <ul>
         <li> AI 연계 실습(JAVA Spring Boot(JSP, CSS, JS))</li>
         <li> Python(Pycharm, Python)</li>
-        <li> NoSQL(MongoDB)</li>
+        <li> NoSQL(MongoDB, Paas)</li>
         <li> Data Modeling(DA# Modeler 5)</li>
         <li> Xshell7(Hadoop(Master, Slave1, Slave2))</li>
     </ul>
