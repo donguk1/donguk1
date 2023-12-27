@@ -7,7 +7,7 @@ K-Paas(23.9 ~ 23.12) :
 <a href="mailto:donguk0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-<a href="mailto:donguk0105@naver.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@naver.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:donguk0105@naver.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <details>
     <summary><h3>Certification</h3></summary>
     <ul>
