@@ -44,7 +44,7 @@ K-Paas(23.9 ~ 23.12) :
         <li> Data Modeling(DA# Modeler 5)</li>
         <li> Xshell7(Hadoop(Master, Slave1, Slave2))</li>
     </ul>
-    </details>
+</details>
 <hr>
 
 
