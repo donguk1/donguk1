@@ -1,8 +1,9 @@
 study!!
 <br>
 <br>
-K-Paas(23.9 ~ 23.12) :
-     java, jsp
+K-Paas(23.9 ~ 23.12)
+프로보노(24.3 ~ )
+서울 열린데이터 광장 공공데이터 활용 창업 경진대회(24.4 ~ )
 
 <a href="mailto:donguk0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
