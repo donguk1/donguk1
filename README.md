@@ -11,7 +11,7 @@ K-Paas(23.9 ~ 23.12)
 
 <a href="mailto:donguk0105@naver.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
-<a href="mailto:donguk0105@naver.com" target="_blank"><img src="[https://img.shields.io/badge/donguk0105@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white](https://www.notion.so/6c04619c78da4304b092d5de06d5e738)"/></a>
+<img src="[https://img.shields.io/badge/donguk0105@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white](https://www.notion.so/6c04619c78da4304b092d5de06d5e738)"/>
 
 <hr>
 
