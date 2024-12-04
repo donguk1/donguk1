@@ -1,12 +1,3 @@
-study!!
-<br>
-<br>
-K-Paas(23.9 ~ 23.12)
-<br>
-프로보노(24.3 ~ )
-<br>
-서울 열린데이터 광장 공공데이터 활용 창업 경진대회(24.4 ~ 24.5) 2차 심사 진출
-
 <a href="mailto:donguk0105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <a href="mailto:donguk0105@naver.com" target="_blank"><img src="https://img.shields.io/badge/donguk0105@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
